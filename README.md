@@ -1,4 +1,4 @@
-# PHYS250Final
+# PHYS 250 Final
 Repository for Physics 250 final project on image classification in Fourier space
 
 The goal of this project is to see if we can classify images in fourier space and also if we can improve the accuracy of the classification if we introduce various image transformations (particularly rotation and blurring). I used the MNIST dataset for the classification task. The model used is a simple feedforward network with two hidden layers. 
